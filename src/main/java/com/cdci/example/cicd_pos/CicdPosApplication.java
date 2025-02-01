@@ -11,6 +11,7 @@ public class CicdPosApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CicdPosApplication.class, args);
+		System.out.println("Hello world!");
 	}
 
 }
