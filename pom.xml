@@ -12,8 +12,8 @@
 	<artifactId>cicd-pos</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>cicd-pos</name>
+	<url>http://maven.apache.org</url>
 	<description>Demo project for Spring Boot</description>
-	<url/>
 	<licenses>
 		<license/>
 	</licenses>
